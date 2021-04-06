@@ -1,0 +1,120 @@
+/* CSS Document */
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+body{
+    background: #0B2126;
+}
+
+h1{
+    margin-top: 75px;
+    color: #F2E8E4;
+    font-family: Roboto;
+}
+
+p{
+    margin-left: 40px;
+    color: #F2E8E4;
+    font-family: Roboto;
+}
+.title{
+    color: #F2E8E4;
+    text-align: center;
+    font-family: Roboto;
+    transition: all 0.2s ease-in-out;
+}
+.title:hover{
+    text-shadow: 2px 2px #8C260F;
+    text-align: center;
+    transform-origin: center;
+    transform: scale(1.3);
+    font-family: Roboto;
+}
+.body-title{
+    color: #F2E8E4;
+    text-align: left;
+    font-family: Roboto;
+    transition: all 0.3s ease-in-out;
+}
+.body-title:hover{
+    text-shadow: 2px 2px #8C260F;
+    transform-origin: left;
+    transform: scale(1.3);
+    font-family: Roboto;
+}
+.navigation-wrapper{
+    float: right;
+    padding: 15px;
+    margin-right: 3%;
+    background-color: #FAF6B4;
+    border-radius: 100%;
+}
+.body-wrapper{
+    transform-origin: center;
+    align-content: center;
+    margin: 0,auto;
+    text-align: center;
+    width: 75%;
+    height: auto;
+    background-color: antiquewhite;
+}
+.left-wrapper{
+    margin: 3%;
+    float: left;
+    width: auto;
+    background-color: bisque;
+    width: 10%;
+}
+
+#data-viz{
+    align-content: center;
+    height: 800px;
+    padding: 25px
+}
+
+.body-copy{
+    margin-left: 15%;
+    width: 75%;
+    
+}
+
+.tenor-gif-embed{
+    float: right;
+}
+
+/* Colors For Money Printer Go Brr
+Blue: #0B2126
+white: #F2E8E4
+bright red: #D93B18
+medium red: #8C260F
+dark red: #59180A
+
+*/
+
+/*
+Color Theme Swatches in Hex
+.Copy-of-eequ-Investment-proposal-1-hex { color: #FA9D9B; }
+.Copy-of-eequ-Investment-proposal-2-hex { color: #9BD2CB; }
+.Copy-of-eequ-Investment-proposal-3-hex { color: #FAF6B4; }
+.Copy-of-eequ-Investment-proposal-4-hex { color: #1C1618; }
+.Copy-of-eequ-Investment-proposal-5-hex { color: #DEF0F4; }
+*/
+
+/* Color Theme Swatches in RGBA 
+.Copy-of-eequ-Investment-proposal-1-rgba { color: rgba(249, 156, 154, 1); }
+.Copy-of-eequ-Investment-proposal-2-rgba { color: rgba(154, 209, 202, 1); }
+.Copy-of-eequ-Investment-proposal-3-rgba { color: rgba(249, 246, 179, 1); }
+.Copy-of-eequ-Investment-proposal-4-rgba { color: rgba(28, 21, 23, 1); }
+.Copy-of-eequ-Investment-proposal-5-rgba { color: rgba(221, 239, 244, 1); }
+*/
+
+/* Color Theme Swatches in HSLA
+.Copy-of-eequ-Investment-proposal-1-hsla { color: hsla(1, 90, 79, 1); }
+.Copy-of-eequ-Investment-proposal-2-hsla { color: hsla(172, 37, 71, 1); }
+.Copy-of-eequ-Investment-proposal-3-hsla { color: hsla(56, 87, 84, 1); }
+.Copy-of-eequ-Investment-proposal-4-hsla { color: hsla(340, 12, 9, 1); }
+.Copy-of-eequ-Investment-proposal-5-hsla { color: hsla(190, 50, 91, 1); }
+*/
